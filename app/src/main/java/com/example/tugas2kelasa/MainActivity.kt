@@ -18,7 +18,6 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-
         // Inisialisasi komponen UI
         input1 = findViewById(R.id.input1)
         input2 = findViewById(R.id.input2)

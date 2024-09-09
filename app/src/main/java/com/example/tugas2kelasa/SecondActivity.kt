@@ -5,7 +5,6 @@ import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
 
 class SecondActivity : AppCompatActivity() {
-
     private lateinit var resultTextView: TextView
     private lateinit var nimTextView: TextView
     private lateinit var nameTextView: TextView
